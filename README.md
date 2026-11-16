@@ -1,4 +1,4 @@
 # Learning about Version Control
 Author: Clarissa Nada Dahjan
 
-Solving merge conflicts is sooo hard!
+Solving merge conflicts takes conscious effort, but I can do it!
